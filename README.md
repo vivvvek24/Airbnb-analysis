@@ -14,7 +14,7 @@ Project PPT - This is a power point presentation file for the project. It includ
 # Data Pipeline
 **Data Understanding:** This step includes a general walk through over the dataset knowing the dimensions of the dataset, datatype, different features, Checking for missing values.
 
-**Data Processing:** At this stage i have dropped two column that had some null value and also were less relevant to the scope of our analysis, this is done to keep our data set small and concise so that handling would be easy,looked forward to the outliers to keep our data free from any anomaly and hence found the price column to skewed towards the right and for that purpose we used median values where the analysis is done on the basis of price.
+**Data Processing:** At this stage i have dropped columns that had some null value and also were less relevant to the scope of our analysis, this is done to keep our data set small and concise so that handling would be easy,looked forward to the outliers to keep our data free from any anomaly and hence found the price column to skewed towards the right and for that purpose we used median values where the analysis is done on the basis of price.
 
 **Exploratory Data Analysis:** EDA or Exploratory Data Analysis is the critical process of performing the initial investigation on the data. So, through this we have observed certain trends and dependencies and also drawn certain conclusions from the dataset that will be useful for further processing.
 
